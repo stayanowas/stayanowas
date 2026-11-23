@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bonjour, je suis stayanowas 👋
 
-<!--
-**stayanowas/stayanowas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je développe **Orbs**, une application Windows qui affiche une activité Rich Presence personnalisée dans Discord.
 
-Here are some ideas to get you started:
+## Projet à découvrir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Orbs — Discord Activity Studio](https://github.com/stayanowas/simulator-game-for-orbs) : catalogue de jeux, favoris, presets et outils de diagnostic.
+- Interface en HTML, CSS et JavaScript, avec une passerelle Python via pywebview.
+
+## Langages et outils
+
+Python · JavaScript · HTML · CSS · GitHub
+
